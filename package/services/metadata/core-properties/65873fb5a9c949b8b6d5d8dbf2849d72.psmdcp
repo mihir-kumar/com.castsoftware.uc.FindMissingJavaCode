@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>CAST User Community</dc:creator>
+  <dc:description>Automation Tool for Finding Missing Source files from delivered source code(Java/J2EE Based Application)</dc:description>
+  <dc:identifier>com.castsoftware.uc.FindMissingJavaCode</dc:identifier>
+  <version>1.0.1</version>
+  <keywords>AIP 8.3.x</keywords>
+  <lastModifiedBy>NuGet.Packaging, Version=5.0.0.1, Culture=neutral, PublicKeyToken=null;</lastModifiedBy>
+</coreProperties>

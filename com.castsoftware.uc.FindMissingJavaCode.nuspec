@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.FindMissingJavaCode</id>
+    <version>1.0.1</version>
+    <title>FAEM: Identify missing code for java</title>
+    <authors>CAST User Community</authors>
+    <owners>CAST</owners>
+    <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-UserCommunity-1.0.html</licenseUrl>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.findMissingSource/wiki</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Automation Tool for Finding Missing Source files from delivered source code(Java/J2EE Based Application)</description>
+    <releaseNotes>https://github.com/CAST-Extend/com.castsoftware.uc.findMissingSource/wiki</releaseNotes>
+    <tags>CASTUserCommunity AIP 8.3.x</tags>
+  </metadata>
+</package>
